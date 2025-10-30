@@ -28,7 +28,7 @@
 **Особенности:** Адаптивный дизайн, темы (темная/светлая), мобильная версия  
 **Демо:** [schedulemskdt.ru](https://schedulemskdt.ru/)
 
-### 3. [N-code Portfolio](https://github.com/skyffell/n-code-portfolio)  
+### 3. [N-code Portfolio]([https://github.com/skyffell/n-code-portfolio](https://skyffell.github.io/n-code-portfolio/))  
 **Описание:** Персональное портфолио с современным дизайном  
 **Технологии:** HTML5, CSS3, JavaScript  
 **Особенности:** Интерактивные элементы, плавные анимации, адаптивная верстка
@@ -42,9 +42,10 @@
 ## ✉️ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ!
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skyffell)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alesha.300053@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-N--code-6A0DAD?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/skyffell/n-code-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-N--code-6A0DAD?style=for-the-badge&logo=atom&logoColor=white)]([https://github.com/skyffell/n-code-portfolio](https://skyffell.github.io/n-code-portfolio/))
 
 *"Создаю цифровые миры, где код встречается с креативностью"* 🏠✨
+
 
 
 
