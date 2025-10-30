@@ -32,6 +32,7 @@
 **Описание:** Персональное портфолио с современным дизайном  
 **Технологии:** HTML5, CSS3, JavaScript  
 **Особенности:** Интерактивные элементы, плавные анимации, адаптивная верстка
+**Демо:**[https://skyffell.github.io/n-code-portfolio/](https://skyffell.github.io/n-code-portfolio/)
 
 ## 🔥 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
@@ -42,9 +43,10 @@
 ## ✉️ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ!
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skyffell)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alesha.300053@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=atom&logoColor=white)]([https://skyffell.github.io/n-code-portfolio/](https://skyffell.github.io/n-code-portfolio/))
+
 
 *"Создаю цифровые миры, где код встречается с креативностью"* 🏠✨
+
 
 
 
