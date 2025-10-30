@@ -16,18 +16,18 @@
 
 ## 💻 ᴘʀᴏᴊᴇᴄᴛꜱ
 
-### 1. [Flock House]
+### 1. Flock House
 **Описание:** Современная платформа для поиска и аренды жилья  
 **Технологии:** HTML, CSS, JavaScript, Adaptive Design  
 **Особенности:** Удобный интерфейс поиска, фильтрация, карточки объектов  
 **Статус:** Активный проект с реальными пользователями  
-**Демо:**
+**Демо:**[https://skyffell.github.io/flockhouse-website/](https://skyffell.github.io/flockhouse-website/)
 
 ### 2. [Парсер расписания МГКЦТ]([schedulemskdt.ru](https://schedulemskdt.ru/))
 **Описание:** Веб-приложение для автоматического парсинга расписания занятий колледжа  
 **Технологии:** Flask, BeautifulSoup, HTML, CSS, JavaScript  
 **Особенности:** Адаптивный дизайн, темы (темная/светлая), мобильная версия  
-**Демо:** [schedulemskdt.ru](https://schedulemskdt.ru/)
+**Демо:**[schedulemskdt.ru](https://schedulemskdt.ru/)
 
 ### 3. [N-code Portfolio]((https://skyffell.github.io/n-code-portfolio/))  
 **Описание:** Персональное портфолио с современным дизайном  
@@ -47,6 +47,7 @@
 
 
 *"Создаю цифровые миры, где код встречается с креативностью"* 🏠✨
+
 
 
 
