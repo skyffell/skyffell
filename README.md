@@ -42,6 +42,7 @@
 ## ✉️ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ!
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skyffell)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alesha.300053@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Flock_House-FF6B6B?style=for-the-badge&logo=house&logoColor=white)]([https:///](https://skyffell.github.io/n-code-portfolio/))
+[![Website](https://img.shields.io/badge/Website-Portfolio-FF6B6B?style=for-the-badge&logo=house&logoColor=white)]([https:///](https://skyffell.github.io/n-code-portfolio/))
 
 *"Создаю цифровые миры, где код встречается с креативностью"* 🏠✨
+
